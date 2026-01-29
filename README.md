@@ -3,7 +3,7 @@
 > "Techy by heart, PM by profession. I believe execution with consistency and audacity can do wonders :)"
 
 ### 🛠 Tech Stack & Tools
-![My Skills](https://skillicons.dev/icons?i=js,python,react,nextjs,aws,docker,github,linux)
+![My Skills](https://skillicons.dev/icons?i=python,aws,docker,github)
 
 ### ⏳ The Journey
 * **[Project Name]** (2024) - Brief description of what you built.
