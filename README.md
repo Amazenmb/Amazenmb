@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nisha 👋
 
-> "Your favorite tech quote or personal philosophy here."
+> "Techy by heart, PM by profession. I believe execution with consistency and audacity can do wonders :)"
 
 ### 🛠 Tech Stack & Tools
 ![My Skills](https://skillicons.dev/icons?i=js,python,react,nextjs,aws,docker,github,linux)
