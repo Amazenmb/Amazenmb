@@ -1,6 +1,7 @@
 # Hi there, I'm Nisha 👋
 
 ## ☁️ About Me
+> "Techy by heart, PM by profession. I believe execution with consistency and audacity can do wonders :)"
 
 I am a **Cloud Architect** in the making, currently deep-diving into the **Google Cloud Ecosystem**. My focus is on building scalable, resilient, and cost-effective infrastructure. 
 
@@ -9,7 +10,6 @@ I am a **Cloud Architect** in the making, currently deep-diving into the **Googl
 * 💡 I love bridging the gap between complex architectural requirements and efficient technical solutions.
 
 ---
-> "Techy by heart, PM by profession. I believe execution with consistency and audacity can do wonders :)"
 
 ### 🛠 Tech Stack & Tools
 ![My Skills](https://skillicons.dev/icons?i=python,gcp,github,html)
@@ -30,8 +30,8 @@ I am a **Cloud Architect** in the making, currently deep-diving into the **Googl
 
 ### 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ManiBuilds)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishamb09@gmail.com)
 
 ## ☁️ About Me
 
