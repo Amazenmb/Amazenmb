@@ -1,5 +1,14 @@
 # Hi there, I'm Nisha 👋
 
+## ☁️ About Me
+
+I am a **Cloud Architect** in the making, currently deep-diving into the **Google Cloud Ecosystem**. My focus is on building scalable, resilient, and cost-effective infrastructure. 
+
+* 🚀 Currently preparing for the **Google Cloud Professional Cloud Architect (PCA)** certification.
+* 🛠️ Passionate about **Infrastructure as Code (IaC)**, Automation, and Cloud Native designs.
+* 💡 I love bridging the gap between complex architectural requirements and efficient technical solutions.
+
+---
 > "Techy by heart, PM by profession. I believe execution with consistency and audacity can do wonders :)"
 
 ### 🛠 Tech Stack & Tools
@@ -43,4 +52,10 @@ I am a **Cloud Architect** in the making, currently deep-diving into the **Googl
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
+### 📊 My Cloud Engineering Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Amazenmb&show_icons=true&theme=transparent&title_color=4285F4&icon_color=4285F4&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amazenmb&layout=compact&theme=transparent&title_color=4285F4&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
 
