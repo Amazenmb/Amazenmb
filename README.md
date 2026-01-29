@@ -13,11 +13,11 @@
 
 | My Stats | Most Used Languages |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Amazenmb&show_icons=true&theme=transparent) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Amazenmb&show_icons=true&theme=transparent) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amazenmb&layout=compact&theme=transparent) |
 
 | Streak Stats | Contribution Graph |
 | :--- | :--- |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amazenmb&theme=transparent) | ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact) |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amazenmb&theme=transparent) | ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Amazenmb&theme=github-compact) |
 
 ### 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
