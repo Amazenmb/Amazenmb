@@ -44,10 +44,9 @@ I am a Techy by heart, PM by profession. I have worked in Banking & Finance as w
   - Key tech used: Voiceflow, ChatGPT/Gemini/Perplexity
   - Used Voiceflow to set up a process flow of chatbot for Customer experience assistance on website visit. Trained as per FAQ and case basis it will direct customers to the best channel.
  
-* [**Increasing Text Reviews of Zomato: Product Improvement**](https://learned-armadillo-778.notion.site/PRD-Increasing-Text-Reviews-of-Zomato-1283f90b9a368158a6c0c117b86a34fa)
-  - Key skills used: Whimsical, Canva, Google Forms, User Research, Market & Competitor Analysis, KPI Tree, Metrics, Wireframing, Prioritization, GTM
-  - hypothesized on how to provide value to users to write reviews, conducted user research for understanding the true problem, needs and pain points, prioritized and selected the solution that makes
-the review process easy and motivating, eventually leading to increase in company revenue and building a continuous growth loop.
+* [**Analysis of AmEx Data for User Exit Prediction**](https://github.com/Amazenmb/AmericanExpress-Data-Analysis-for-User-Exit-Prediction)
+  - Key skills used: Python, Anaconda (IDE), Jupyter Notebook, Libraries: Pandas, Numpy, Matplotlib, Tensorflow, Scikit-learn 
+  -Analysed sample AmEx data for predicting of User Exit or closure of account using an Artificial Neural Network (ANN) trained model.
     
 
 * [**Increasing Text Reviews of Zomato: Product Improvement**](https://learned-armadillo-778.notion.site/PRD-Increasing-Text-Reviews-of-Zomato-1283f90b9a368158a6c0c117b86a34fa)
