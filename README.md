@@ -23,9 +23,9 @@ I am a Techy by heart, PM by profession. I have worked in Banking & Finance as w
   <img src="https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=mysql&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-FCC624?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-FCC624?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-FCC624?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-FCC624?style=for-the-badge&logo=jira&logoColor=black" />
   <img src="https://img.shields.io/badge/Notion-FCC624?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Whimsical-FCC624?style=for-the-badge&logo=whimsical&logoColor=black" />
+  <img src="https://img.shields.io/badge/Whimsical-FCC624?style=for-the-badge&logo=whimsical&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-FCC624?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Miro-FCC624?style=for-the-badge&logo=miro&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-%232496ED.svg?style=for-the-badge&logo=github&logoColor=white" />
