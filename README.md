@@ -40,8 +40,15 @@ I am a Techy by heart, PM by profession. I have worked in Banking & Finance as w
   - Key tech used: Python, Anaconda (IDE), Jupyter Notebook, Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Statsmodels.
   - This project analyzes anonymized Aadhaar enrolment and update datasets from UIDAI to identify meaningful patterns, trends, anomalies, and predictive indicators. Goal of the analysis is to support informed decision-making and system improvements for India's Aadhaar ecosystem.
     
-* **[Project Name]** (2023) - Key tech used: React, Node.js.
-* 
+* [**AI Chatbot for Customer Assistance -Low code (2025)**](https://github.com/Amazenmb/AI-Chatbot-for-Customer-Assistance)
+  - Key tech used: Voiceflow, ChatGPT/Gemini/Perplexity
+  - Used Voiceflow to set up a process flow of chatbot for Customer experience assistance on website visit. Trained as per FAQ and case basis it will direct customers to the best channel.
+    
+
+* [**Increasing Text Reviews of Zomato: Product Improvement (2024)**](https://learned-armadillo-778.notion.site/PRD-Increasing-Text-Reviews-of-Zomato-1283f90b9a368158a6c0c117b86a34fa)
+  - Key skills used: Whimsical, Canva, Google Forms, User Research, Market & Competitor Analysis, KPI Tree, Metrics, Wireframing, Prioritization, GTM
+  - hypothesized on how to provide value to users to write reviews, conducted user research for understanding the true problem, needs and pain points, prioritized and selected the solution that makes
+the review process easy and motivating, eventually leading to increase in company revenue and building a continuous growth loop.
 
 ---
 
