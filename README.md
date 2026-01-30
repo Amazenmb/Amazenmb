@@ -1,7 +1,9 @@
 # Hi there, I'm Nisha 👋
 
+> "Luck is nothing but execution with consistency combined wth occasional audacity:)"
+
 ## ☁️ About Me
-> "Techy by heart, PM by profession. I believe execution with consistency and audacity can do wonders :)"
+> Techy by heart, PM by profession
 
 I am a **Cloud Architect** in the making, currently deep-diving into the **Google Cloud Ecosystem**. My focus is on building scalable, resilient, and cost-effective infrastructure. 
 
