@@ -12,24 +12,8 @@ I am a Techy by heart, PM by profession. I have worked in Banking & Finance as w
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠️  Tech Stack & Tools
 ![My Skills](https://skillicons.dev/icons?i=python,gcp,github,html)
-
-### ⏳ The Journey
-* **[Project Name]** (2024) - Brief description of what you built.
-* **[Project Name]** (2023) - Key tech used: React, Node.js.
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Amazenmb&theme=radical) ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amazenmb&layout=compact&theme=radical)
-
-|Contribution Graph |
-| :--- |
-| ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Amazenmb&theme=github-compact) |
-
-
-
-### 🛠️ Technical Arsenal
 
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -38,6 +22,24 @@ I am a Techy by heart, PM by profession. I have worked in Banking & Finance as w
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
+### ⏳ Projects
+* **[Project Name]** (2024) - Brief description of what you built.
+* **[Project Name]** (2023) - Key tech used: React, Node.js.
+* 
+
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Amazenmb&theme=radical)         ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amazenmb&layout=compact&theme=radical)
+
+|Contribution Graph |
+| :--- |
+| ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Amazenmb&theme=github-compact) |
+
+
+
+
 
 
 
