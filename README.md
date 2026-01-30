@@ -13,17 +13,21 @@ I am a Techy by heart, PM by profession. I have worked in Banking & Finance as w
 ---
 
 ### 🛠️  Tech Stack & Tools
-![My Skills](https://skillicons.dev/icons?i=python,gcp,aws,github,linux,html)
+![My Skills](https://skillicons.dev/icons?i=python,gcp,aws,terraform,github,linux,html,mysql,ai,tensorflow,supabase,vscode,figma,postman,notion)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=html&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-%232496ED.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%232496ED.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Html-%232496ED.svg?style=for-the-badge&logo=html&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Jira-FCC624?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-FCC624?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-FCC624?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-FCC624?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-FCC624?style=for-the-badge&logo=lovable&logoColor=white" />
 </p>
 
 ### ⏳ Projects
