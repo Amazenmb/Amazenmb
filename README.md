@@ -23,11 +23,11 @@ I am a Techy by heart, PM by profession. I have worked in Banking & Finance as w
 
 | My Stats | Most Used Languages |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Amazenmb&show_icons=true&theme=transparent) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amazenmb&layout=compact&theme=transparent) |
+| ![Stats](https://github-readme-stats-fast.vercel.app/api?username=Amazenmb&show_icons=true&theme=transparent) | ![Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amazenmb&layout=compact&theme=transparent) |
 
 | Streak Stats | Contribution Graph |
 | :--- | :--- |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amazenmb&theme=transparent) | ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Amazenmb&theme=github-compact) |
+| ![Streak](https://github-readme-streak-stats-fast.herokuapp.com/?user=Amazenmb&theme=transparent) | ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Amazenmb&theme=github-compact) |
 
 
 
@@ -42,9 +42,9 @@ I am a Techy by heart, PM by profession. I have worked in Banking & Finance as w
 </p>
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Amazenmb&show_icons=true&theme=transparent&title_color=4285F4&icon_color=4285F4&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=Amazenmb&show_icons=true&theme=transparent&title_color=4285F4&icon_color=4285F4&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amazenmb&layout=compact&theme=transparent&title_color=4285F4&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amazenmb&layout=compact&theme=transparent&title_color=4285F4&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
 
 
 ### 📬 Connect with me
