@@ -5,7 +5,7 @@
 ## ☁️ About Me
 
 
-I am a Techy by heart, PM by profession. I have worked in Banking & finance as well as manufacturing sector which gives me a well-mixed diverse set of skills to tackle problem-solving. 
+I am a Techy by heart, PM by profession. I have worked in Banking & Finance as well as Manufacturing sector which gives me a well-mixed diverse set of skills to tackle problem-solving. 
 
 * 🛠️ Passionate about building and contributing in great products - big or small!.
 * 💡 I love bridging the gap between business requirements and efficient technical solutions.
