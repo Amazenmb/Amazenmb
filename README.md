@@ -36,7 +36,7 @@ I am a Techy by heart, PM by profession. I have worked in Banking & Finance as w
 
 ---
 ### ⏳ Projects
-* **Trend Analysis of Aadhar Enrolments and Updates (2026)** Check Here--> ("https://github.com/Amazenmb/Trends-Analysis-of-Aadhar-Enrolments-and-Updates-")
+* [**Trend Analysis of Aadhar Enrolments and Updates (2026)** ](https://github.com/Amazenmb/Trends-Analysis-of-Aadhar-Enrolments-and-Updates-)
   - Key tech used: Python, Anaconda (IDE), Jupyter Notebook, Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Statsmodels.
   - This project analyzes anonymized Aadhaar enrolment and update datasets from UIDAI to identify meaningful patterns, trends, anomalies, and predictive indicators. Goal of the analysis is to support informed decision-making and system improvements for India's Aadhaar ecosystem.
     
