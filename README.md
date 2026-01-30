@@ -3,13 +3,13 @@
 > "Luck is nothing but execution with consistency combined wth occasional audacity:)"
 
 ## ☁️ About Me
-> Techy by heart, PM by profession
 
-I am a **Cloud Architect** in the making, currently deep-diving into the **Google Cloud Ecosystem**. My focus is on building scalable, resilient, and cost-effective infrastructure. 
 
+I am a Techy by heart, PM by profession. I have worked in Banking & finance as well as manufacturing sector which gives me a well-mixed diverse set of skills to tackle problem-solving. 
+
+* 🛠️ Passionate about building and contributing in great products - big or small!.
+* 💡 I love bridging the gap between business requirements and efficient technical solutions.
 * 🚀 Currently preparing for the **Google Cloud Professional Cloud Architect (PCA)** certification.
-* 🛠️ Passionate about **Infrastructure as Code (IaC)**, Automation, and Cloud Native designs.
-* 💡 I love bridging the gap between complex architectural requirements and efficient technical solutions.
 
 ---
 
