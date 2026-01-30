@@ -34,12 +34,13 @@ I am a Techy by heart, PM by profession. I have worked in Banking & Finance as w
   
 </p>
 
+---
 ### ⏳ Projects
 * **[Project Name]** (2024) - Brief description of what you built.
 * **[Project Name]** (2023) - Key tech used: React, Node.js.
 * 
 
-
+---
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Amazenmb&theme=radical)         ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amazenmb&layout=compact&theme=radical)
@@ -49,7 +50,7 @@ I am a Techy by heart, PM by profession. I have worked in Banking & Finance as w
 | ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Amazenmb&theme=github-compact) |
 
 
-
+---
 
 
 
