@@ -23,7 +23,7 @@ I am a Techy by heart, PM by profession. I have worked in Banking & Finance as w
 
 | My Stats | Most Used Languages |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats-fast.vercel.app/api?username=Amazenmb&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amazenmb&layout=compact&theme=transparent&title_color=4285F4&text_color=c9d1d9&bg_color=0d1117&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Amazenmb&theme=radical) | ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amazenmb&layout=compact&theme=transparent&title_color=4285F4&text_color=c9d1d9&bg_color=0d1117&hide_border=true) |
 
 |Contribution Graph |
 | :--- |
