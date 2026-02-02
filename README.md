@@ -1,6 +1,6 @@
 # Hi there, I'm Nisha 👋
 
-> "Luck is nothing but execution with consistency combined wth occasional audacity:)" (yay...my own quote)
+> "Luck is nothing but execution with consistency combined wth occasional audacity: )" (yay...my own quote)
 
 ## ☁️ About Me
 
