@@ -67,9 +67,6 @@ the review process easy and motivating, eventually leading to increase in compan
 
 ---
 
-
-
-
 ### 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-m-bharti/)
 [![Medium](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nishamb09)
